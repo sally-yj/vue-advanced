@@ -28,4 +28,7 @@ export default {
 .list {
   margin: 30px 0;
 }
+.list small {
+  margin-left: 20px;
+}
 </style>
